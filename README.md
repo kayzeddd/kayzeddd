@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, React Libraries, Bootstrap, PHP,**
 
-- 📫 How to reach me **kayzed98@gmail.com**
+- 📫 How to reach me **zhenkelvin98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
